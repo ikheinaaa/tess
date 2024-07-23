@@ -4,15 +4,80 @@ layout: default
 permalink: "/disclaimer.html"
 ---
 
-#### disclaimer "{{site.name}}"
-Every effort has been made to accurately represent this website or product and its potential. While this industry offers opportunities for substantial earnings, there is no guarantee that you will make any money using the techniques and ideas presented in these materials.
-Examples provided in these materials should not be interpreted as promises or guarantees of earnings. Your earning potential is entirely dependent on your own efforts using our product, ideas, and techniques. We do not promote this as a “get rich scheme.”
-Your level of success in achieving the results claimed in our materials depends on the time you devote to the program, your knowledge, skills, and the application of the ideas and techniques mentioned. Since these factors vary among individuals, we cannot guarantee your success or income level.
-Any income claims or results from selling products on Amazon cannot be guaranteed. It is solely the user’s responsibility to put forth the necessary effort. As the provider of these materials cannot control the user’s efforts, success cannot be expressly guaranteed.
-Similarly, any claims regarding income from Google Adsense cannot be guaranteed. The user must apply the knowledge provided within the materials or have an understanding of other methods outside of the materials. Due to the lack of control over the user’s effort, Adsense income claims are also not guaranteed.
-Claims regarding affiliate income or success in affiliate marketing are also not guaranteed. The user is solely responsible for their success or lack thereof after following any affiliate marketing techniques provided.
-Materials in our product and on our website may contain forward-looking statements within the meaning of the Securities Litigation Reform Act of 1995. Forward-looking statements reflect our expectations or forecasts of future events.
-You can identify these statements by the fact that they do not relate strictly to historical or current facts. They use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “believe,” “plan,” and other words and terms of similar meaning in connection with descriptions of potential earnings or financial performance.
-All forward-looking statements here or in any of our sales material are intended to express our opinion of earnings potential. Many factors will influence your actual results, and no guarantees are made that you will achieve results similar to ours or anyone else's. In fact, no guarantees are made that you will achieve any results from our ideas and techniques.
-This site may contain affiliate links where the advertiser/creator earns a commission if you purchase the product. This site may include links to Amazon products as an affiliate and/or may generate revenue if visitors click on advertisements presented by Google Adsense or any other contextual advertising program. Affiliate links from sites like ClickBank or ShareASale may be present, and the site owner may earn commissions by recommending products on this website.
-Results vary, and as with any money-making opportunity, you could make more or less. Success in any money-making opportunity results from hard work, time, and various other factors. No express or implied guarantees of income are made by GitHub.com.
+Disclaimer
+==========
+
+### Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
+### Definitions
+
+For the purposes of this Disclaimer:
+
+*   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Disclaimer) refers to "{{site.name}}".
+*   **Service** refers to the Website.
+*   **You** means the individual accessing the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+*   **Website** refers to "{{site.name}}", accessible from ["{{site.name}}"](%22%7B%7Bsite.name%7D%7D%22)
+
+Disclaimer
+----------
+
+The information contained on the Service is for general information purposes only.
+
+The Company assumes no responsibility for errors or omissions in the contents of the Service.
+
+In no event shall the Company be liable for any special, direct, indirect, consequential, or incidental damages or any damages whatsoever, whether in an action of contract, negligence or other tort, arising out of or in connection with the use of the Service or the contents of the Service. The Company reserves the right to make additions, deletions, or modifications to the contents on the Service at any time without prior notice. This Disclaimer has been created with the help of the ["{{site.name}}"].
+
+The Company does not warrant that the Service is free of viruses or other harmful components.
+
+External Links Disclaimer
+-------------------------
+
+The Service may contain links to external websites that are not provided or maintained by or in any way affiliated with the Company.
+
+Please note that the Company does not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
+
+Errors and Omissions Disclaimer
+-------------------------------
+
+The information given by the Service is for general guidance on matters of interest only. Even if the Company takes every precaution to ensure that the content of the Service is both current and accurate, errors can occur. Plus, given the changing nature of laws, rules and regulations, there may be delays, omissions or inaccuracies in the information contained on the Service.
+
+The Company is not responsible for any errors or omissions, or for the results obtained from the use of this information.
+
+Fair Use Disclaimer
+-------------------
+
+The Company may use copyrighted material which has not always been specifically authorized by the copyright owner. The Company is making such material available for criticism, comment, news reporting, teaching, scholarship, or research.
+
+The Company believes this constitutes a "fair use" of any such copyrighted material as provided for in section 107 of the United States Copyright law.
+
+If You wish to use copyrighted material from the Service for your own purposes that go beyond fair use, You must obtain permission from the copyright owner.
+
+Views Expressed Disclaimer
+--------------------------
+
+The Service may contain views and opinions which are those of the authors and do not necessarily reflect the official policy or position of any other author, agency, organization, employer or company, including the Company.
+
+Comments published by users are their sole responsibility and the users will take full responsibility, liability and blame for any libel or litigation that results from something written in or as a direct result of something written in a comment. The Company is not liable for any comment published by users and reserves the right to delete any comment for any reason whatsoever.
+
+No Responsibility Disclaimer
+----------------------------
+
+The information on the Service is provided with the understanding that the Company is not herein engaged in rendering legal, accounting, tax, or other professional advice and services. As such, it should not be used as a substitute for consultation with professional accounting, tax, legal or other competent advisers.
+
+In no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever arising out of or in connection with your access or use or inability to access or use the Service.
+
+"Use at Your Own Risk" Disclaimer
+---------------------------------
+
+All information in the Service is provided "as is", with no guarantee of completeness, accuracy, timeliness or of the results obtained from the use of this information, and without warranty of any kind, express or implied, including, but not limited to warranties of performance, merchantability and fitness for a particular purpose.
+
+The Company will not be liable to You or anyone else for any decision made or action taken in reliance on the information given by the Service or for any consequential, special or similar damages, even if advised of the possibility of such damages.
+
+Contact Us
+----------
+
+If you have any questions about this Disclaimer, You can contact Us:
+
+*   By email: admin@"{{site.name}}".com
