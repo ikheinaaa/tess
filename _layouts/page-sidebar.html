@@ -2,6 +2,7 @@
 layout: default
 ---
 <div class="container">
+    {% include adsens.html %}
 <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
 <div class="row">
     <div class="col-md-8">
@@ -9,6 +10,7 @@ layout: default
     <img class="card-img-top mb-5 shadow-lg" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}"> 
     {% endif %} 
     <div class="page-content">
+        {% include adsens.html %}
         {{ content }}
         <!-- Comments -->
         {% if page.comments == true %}
