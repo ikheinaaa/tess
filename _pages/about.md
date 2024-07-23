@@ -5,7 +5,7 @@ permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-# Welcome to our site {{site.baseurl}}!
+# Welcome to our site !
 
 Thank you for visiting.
 
