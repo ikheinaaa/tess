@@ -1,7 +1,7 @@
 ---
 title: "Jane"
 layout: default
-permalink: "/disclaimer.html"
+permalink: "/disclaimer"
 ---
 
 Disclaimer
