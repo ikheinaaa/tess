@@ -80,4 +80,4 @@ Contact Us
 
 If you have any questions about this Disclaimer, You can contact Us:
 
-*   By email: admin@{{site.url}}
+*   By email: admin@{{site.baseurl}}
