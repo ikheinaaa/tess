@@ -3,8 +3,8 @@ title: "About"
 layout: page-sidebar
 permalink: "/about.html"
 ---
-# Welcome to our site !
-
+#### Welcome to our site !
+====
 Thank you for visiting.
 
 This site was really built with you in mind and we hope you will find it useful.
