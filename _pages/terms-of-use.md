@@ -4,46 +4,133 @@ layout: default
 permalink: "/terms-of-use.html"
 ---
 
-#### PLEASE READ THIS WEBSITE REQUIRES CONSIDERATION FOR AND AS A CONDITION OF ALLOWING YOU ACCESS
-READING AND ACCEPTING THE TERMS OF USE AGREEMENT AND READING AND ACCEPTING THE PROVISIONS OF THE PRIVACY POLICY OF THIS WEBSITE ARE REQUIRED CONSIDERATIONS FOR THE WEBSITE GRANTING YOU THE RIGHT TO VISIT, READ, RESELL, TRANSACT, PROCESS PAYMENTS FOR, OR INTERACT WITH IT IN ANY WAY. BY VISITING THIS WEBSITE, YOU ARE ACKNOWLEDGING THAT ALL TERMS OF USE HAVE BEEN TRANSMITTED TO YOU. ANY AND ALL AGREEMENTS, REPRESENTATIONS, PROMISES, WARRANTIES, ACTIONS, OR STATEMENTS BY VISITOR THAT DIFFER IN ANY WAY FROM THIS AGREEMENT SHALL BE GIVEN NO FORCE OR EFFECT.
-ALL PERSONS ARE DENIED ACCESS TO OR USE OF THIS SITE UNLESS THEY READ AND ACCEPT THE TERMS OF USE AND THE PRIVACY POLICY.
-BY VIEWING, VISITING, USING, TRANSACTING PAYMENTS ON BEHALF OF, OR INTERACTING WITH THIS WEBSITE AS A RESELLER, INTERMEDIARY, AFFILIATE, CUSTOMER, MERCHANT SERVICE PROVIDER, PUBLISHER, ADVERTISER, OR ANY INTERACTION WHATSOEVER, YOU ARE AGREEING TO ALL THE PROVISIONS OF THIS TERMS OF USE POLICY AND THE PRIVACY POLICY OF THIS WEBSITE. INCLUDING ANY CHANGES TO THIS AGREEMENT OR ADDITIONAL POLICIES INCORPORATED BY REFERENCE WHICH WEBSITE MAY MAKE IN ITS SOLE DISCRETION IN THE FUTURE.
-ALL PERSONS UNDER THE AGE OF 18 ARE DENIED ACCESS TO THIS WEBSITE. IF YOU ARE UNDER 18 YEARS OF AGE, IT IS UNLAWFUL FOR YOU TO VISIT, READ, OR INTERACT WITH THIS WEBSITE OR ITS CONTENTS IN ANY MANNER. THIS WEBSITE SPECIFICALLY DENIES ACCESS TO ANY INDIVIDUAL THAT IS COVERED BY THE CHILD ONLINE PRIVACY ACT (COPA) OF 1998.
-THIS WEBSITE RESERVES THE RIGHT TO DENY ACCESS TO ANY PERSON OR VIEWER FOR ANY REASON. UNDER THE TERMS OF THE PRIVACY POLICY, WHICH YOU ACCEPT AS A CONDITION FOR VIEWING, THE WEBSITE IS ALLOWED TO COLLECT AND STORE DATA AND INFORMATION FOR THE PURPOSE OF EXCLUSION AND FOR MANY OTHER USES.
-THE TERMS OF USE AGREEMENT MAY CHANGE FROM TIME TO TIME. VISITORS HAVE AN AFFIRMATIVE DUTY, AS PART OF THE CONSIDERATION FOR PERMISSION TO VIEW THIS WEBSITE, TO KEEP THEMSELVES INFORMED OF CHANGES.
-#### Parties to the Terms of Use Agreement
-Visitors, viewers, users, subscribers, members, affiliates, resellers, or customers, collectively referred to herein as “Visitors,” are parties to this agreement. The website and its predecessor websites' owners and/or operators are parties to this agreement, herein referred to as “Website.” Visitors understand and acknowledge that this agreement overrules and supersedes any and all Visitors agreements with Website, including but not limited to Visitors' own electronic website terms of use, privacy policy, or other proposed legally binding agreements located on Visitors' website.
-Website hereby rejects all Visitors' website electronic agreements including but not limited to Visitors' Terms and Conditions. This agreement shall govern all parties. In the event of a dispute with Visitor, the Website shall be governed by this agreement and by the applicable default rules and laws which shall be settled in binding arbitration or a court of law at the Website's choice in the jurisdiction of the Website's choice. Any and all agreements, representations, promises, warranties, actions, or statements by Visitors' website or other proposed agreements that differ in any way from the terms of this agreement shall be given no force or effect. All visitors including resellers, intermediaries, affiliates, joint venture partners, publishers, advertisers, online marketers, and any and all users that visit or access this website in any way shall be subject to mutual release and any contracts or agreements are not permitted to be terminated for any cause or reason without mutual written agreement and assent of the website.
-#### Use of Information from this Website
-Unless you have entered into an express written contract with this website to the contrary, visitors, viewers, subscribers, members, affiliates, or customers have no right to use this information in a commercial or public setting; they have no right to broadcast it, copy it, save it, print it, sell it, or publish any portions of the content of this website. By viewing the contents of this website, you agree to this condition of viewing and you acknowledge that any unauthorized use is unlawful and may subject you to civil or criminal penalties. Again, Visitor has no rights whatsoever to use the content of, or portions thereof, including its databases, invisible pages, linked pages, underlying code, or other intellectual property the site may contain, for any reason for any use whatsoever. Nothing. Visitor agrees to liquidated damages in the amount of U.S.$100,000 in addition to costs and actual damages for breach of this provision. Visitor warrants that he or she understands that accepting this provision is a condition of viewing and that viewing constitutes acceptance.
-#### Ownership of Website or Right to Use, Sell, Publish Contents of this Website
-The website and its contents are owned or licensed by the website. Material contained on the website must be presumed to be proprietary and copyrighted. Visitors have no rights whatsoever in the site content. Use of website content for any reason is unlawful unless it is done with express contract or permission of the website.
-#### Hyperlinking to Site, Co-Branding, “Framing” and Referencing Site Prohibited
-Unless expressly authorized by the website, no one may hyperlink this site, or portions thereof, (including, but not limited to, logotypes, trademarks, branding or copyrighted material) to theirs for any reason. Further, you are not allowed to reference the URL (website address) of this website in any commercial or non-commercial media without express permission, nor are you allowed to ‘frame’ the site. You specifically agree to cooperate with the Website to remove or de-activate any such activities and be liable for all damages. You hereby agree to liquidated damages of US$100,000.00 plus costs and actual damages for violating this provision.
-### Disclaimer for Contents of Site
-The website disclaims any responsibility for the accuracy of the content of this website. Visitors assume all risk of viewing, reading, using, or relying upon this information. Unless you have otherwise formed an express contract to the contrary with the website, you have no right to rely on any information contained herein as accurate. The website makes no such warranty.
-Every effort has been made to accurately represent this product and its potential. Even though this industry is one of the few where one can write their own check in terms of earnings, there is no guarantee that you will earn any money using the techniques and ideas in these materials. Examples and testimonials in these materials are not to be interpreted as a promise or guarantee of earnings. Earning potential is entirely dependent on the person using our product, their ideas, and techniques. This product is not a business opportunity and only provides advice and training about Internet and search engine optimization. This is a new product and system and as such, there is no history of earnings from its use. WE DO NOT TRACK ACTUAL EARNINGS OF USERS OF OUR PRODUCT AS THE SAME WOULD VIOLATE THE USERS' TRADE SECRETS AND CONFIDENTIAL OR PROPRIETARY INFORMATION. THE INFORMATION ON THIS SITE IS OUR EXPERIENCE WITH THE PRODUCT. IF YOU WANT TO SHARE YOUR EXPERIENCE LET US KNOW.
-#### Disclaimer for Harm Caused to Your Computer or Software from Interacting with This Website or Its Contents. Visitor Assumes All Risk of Viruses, Worms, or Other Corrupting Factors.
-The website assumes no responsibility for damage to computers or software of the visitor or any person the visitor subsequently communicates with from corrupting code or data that is inadvertently passed to the visitor’s computer. Again, visitor views and interacts with this site, or banners or pop-ups or advertising displayed thereon, at his own risk.
-#### Disclaimer for Harm Caused by Downloads
-Visitor downloads information from this site at his own risk. Website makes no warranty that downloads are free of corrupting computer codes, including, but not limited to, viruses and worms.
-#### Limitation of Liability
-By viewing, using, or interacting in any manner with this site, including banners, advertising, or pop-ups, downloads, and as a condition of the website to allow his lawful viewing, Visitor forever waives all right to claims of damage of any and all descriptions based on any causal factor resulting in any possible harm, no matter how heinous or extensive, whether physical or emotional, foreseeable or unforeseeable, whether personal or business in nature.
-#### Indemnification
-Visitor agrees that in the event he causes damage, which the Website is required to pay for, the Visitor, as a condition of viewing, promises to reimburse the Website for all.
-#### Submissions
-Visitor agrees as a condition of viewing, that any communication between Visitor and Website is deemed a submission. All submissions, including portions thereof, graphics contained thereon, or any of the content of the submission, shall become the exclusive property of the Website and may be used, without further permission, for commercial use without additional consideration of any kind. Visitor agrees to only communicate that information to the Website, which it wishes to forever allow the Website to use in any manner as it sees fit. “Submissions” is also a provision of the Privacy Policy.
-#### Notice
-No additional notice of any kind for any reason is due to Visitor, and Visitor expressly warrants an understanding that the right to notice is waived as a condition for permission to view or interact with the website.
-#### Disputes
-As part of the consideration that the Website requires for viewing, using, or interacting with this website, Visitor agrees to use binding arbitration for any claim, dispute, or controversy (“CLAIM”) of any kind (whether in contract, tort, or otherwise) arising out of or relating to this purchase, this product, including solicitation issues, privacy issues, and terms of use issues. In the event the Visitor is the prevailing party, the Visitor shall bear the cost of its own attorney fees. Website reserves the right to litigate Visitor in a court of law in the jurisdiction of Website’s choice.
-In no case shall the viewer, visitor, member, subscriber, or customer have the right to go to court or have a jury trial. Viewer, visitor, member, subscriber, or customer will not have the right to engage in pre-trial discovery except as provided in the rules; you will not have the right to participate as a representative or member of any class of claimants pertaining to any claim subject to arbitration; the arbitrator’s decision will be final and binding with limited rights of appeal.
-The prevailing party shall be reimbursed by the other party for any and all costs associated with the dispute arbitration, including attorney fees, collection fees, investigation fees, and travel expenses.
-#### Jurisdiction and Venue
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Viewer, visitor, member, subscriber, or customer agrees that the sole and proper jurisdiction shall be the state and city declared in the contact information of the web owner unless otherwise specified. In the event that litigation is in a federal court, the proper court shall be the federal court of the website’s choice.
-#### Billing Model and Cancellation/Refund Policy
-Refunds can be requested by contacting customer support by clicking on the link in the footer of the website unless otherwise stated in the offer.
-#### Applicable Law
-Viewer, visitor, member, subscriber, or customer agrees that the applicable law to be applied shall, in all cases, be that of the state of the Website listing in our contact information.
-#### Contact Information
-The operator of this website can be reached at [myinbox@my.id](mailto:myinbox@my.id).
+Terms and Conditions
+====================
+Please read these terms and conditions carefully before using Our Service.
+
+Interpretation and Definitions
+------------------------------
+
+### Interpretation
+
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+
+### Definitions
+
+For the purposes of these Terms and Conditions:
+
+*   **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+    
+*   **Country** refers to: New York, United States
+    
+*   **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to "{{site.name}}".
+    
+*   **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+    
+*   **Service** refers to the Website.
+    
+*   **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
+    
+*   **Third-party Social Media Service** means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+    
+*   **Website** refers to "{{site.name}}", accessible from ["{{site.name}}"](%22%7B%7Bsite.name%7D%7D%22)
+    
+*   **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+    
+
+Acknowledgment
+--------------
+
+These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+
+By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+
+You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
+
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+
+Links to Other Websites
+-----------------------
+
+Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+
+The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+
+We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+
+Termination
+-----------
+
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+
+Upon termination, Your right to use the Service will cease immediately.
+
+Limitation of Liability
+-----------------------
+
+Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
+
+To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+
+Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+
+"AS IS" and "AS AVAILABLE" Disclaimer
+-------------------------------------
+
+The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+
+Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
+
+Governing Law
+-------------
+
+The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+
+Disputes Resolution
+-------------------
+
+If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
+
+For European Union (EU) Users
+-----------------------------
+
+If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which You are resident.
+
+United States Legal Compliance
+------------------------------
+
+You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
+
+Severability and Waiver
+-----------------------
+
+### Severability
+
+If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+
+### Waiver
+
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under these Terms shall not affect a party's ability to exercise such right or require such performance at any time thereafter nor shall the waiver of a breach constitute a waiver of any subsequent breach.
+
+Translation Interpretation
+--------------------------
+
+These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
+
+Changes to These Terms and Conditions
+-------------------------------------
+
+We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
+
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+
+Contact Us
+----------
+
+If you have any questions about these Terms and Conditions, You can contact us:
+
+*   By email: admin@"{{site.name}}".com
