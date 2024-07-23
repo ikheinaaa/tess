@@ -4,7 +4,7 @@ layout: default
 permalink: "/disclaimer.html"
 ---
 
-
+#### disclaimer "{{site.name}}"
 Every effort has been made to accurately represent this website or product and its potential. While this industry offers opportunities for substantial earnings, there is no guarantee that you will make any money using the techniques and ideas presented in these materials.
 
 Examples provided in these materials should not be interpreted as promises or guarantees of earnings. Your earning potential is entirely dependent on your own efforts using our product, ideas, and techniques. We do not promote this as a “get rich scheme.”
