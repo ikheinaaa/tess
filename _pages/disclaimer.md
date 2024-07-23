@@ -3,9 +3,7 @@ title: "Jane"
 layout: default
 permalink: "/disclaimer.html"
 ---
-Here is your content rephrased for clarity and coherence:
 
----
 
 Every effort has been made to accurately represent this website or product and its potential. While this industry offers opportunities for substantial earnings, there is no guarantee that you will make any money using the techniques and ideas presented in these materials.
 
@@ -28,5 +26,3 @@ All forward-looking statements here or in any of our sales material are intended
 This site may contain affiliate links where the advertiser/creator earns a commission if you purchase the product. This site may include links to Amazon products as an affiliate and/or may generate revenue if visitors click on advertisements presented by Google Adsense or any other contextual advertising program. Affiliate links from sites like ClickBank or ShareASale may be present, and the site owner may earn commissions by recommending products on this website.
 
 Results vary, and as with any money-making opportunity, you could make more or less. Success in any money-making opportunity results from hard work, time, and various other factors. No express or implied guarantees of income are made by GitHub.com.
-
----
