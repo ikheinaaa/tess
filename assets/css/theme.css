@@ -1,5 +1,5 @@
 /*!
- * Mundana Jekyll Theme
+ *
  */
 
 body {
@@ -652,48 +652,41 @@ footer {
     margin-top:10px;
 }
 article {
-    font-size: 20px;
-    line-height: 1.86;
-    font-family: Lora;
+	font-size:20px;
+	line-height:1.86;
+    font-family:Lora;
 }
-
 .article-headline {
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: Georgia,Times,"Times New Roman",serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
     color: #222222;
 }
-
-article p, article pre, article figure, article img, article blockquote, article iframe, article embed {
-    margin-bottom: 2rem;
+article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
+	margin-bottom:2rem;
 }
-
 article blockquote {
-    padding-left: 40px;
-    margin-left: 0;
-    font-style: italic;
-    position: relative;
+	padding-left:40px;
+	margin-left:0px;
+	font-style:italic;
+	position:relative;
 }
-
 article blockquote:before {
-    content: "“";
-    font-family: Georgia;
-    font-size: 8rem;
-    margin: -1rem 2rem 0 -3.9rem;
-    position: absolute;
-    opacity: 1;
-    float: left;
-    line-height: 1;
+	content:"“";
+	font-family:Georgia;
+	font-size:8rem;
+	margin:-1rem 2rem 0 -3.9rem;
+	position:absolute;
+	opacity:1;
+	float:left;
+	line-height:1;
 }
-
-
-article h1, article h2, article h3, article h4, article h5, article h6, article .h1, article .h2, article .h3, article .h4, article .h5, article .h6 {
-    margin-bottom: 2rem;
-    margin-top: 2rem;
-    font-weight: 600;
+article h1,article h2,article h3,article h4,article h5,article h6,article .h1,article .h2,article .h3,article .h4,article .h5,article .h6 {
+	margin-bottom:2rem;
+	margin-top:2rem;
+	font-weight:600;
 }
-
 .alertbar {
 	box-shadow:0 -3px 10px 0 rgba(0,0,0,.0785);
 	position:fixed;
@@ -802,47 +795,5 @@ div.a2a_full_footer {display:none;}
 	 .topfirstimage {
 		 height:280px !Important;
 	 }
-	
  }
-/* Ensure the container is responsive */
-.container {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto; /* Center the container */
-    padding: 0 15px; /* Add padding on smaller screens */
-}
-
-/* Center-align text */
-.text-center {
-    text-align: center;
-}
-
-/* Ensure headings and paragraphs are responsive */
-h3 {
-    font-size: 2rem; /* Adjust as necessary */
-    margin-bottom: 1.5rem;
-}
-
-/* Make page-content responsive */
-.page-content {
-    font-size: 1rem; /* Adjust font size as necessary */
-    line-height: 1.5; /* Improve readability */
-    margin-bottom: 2rem;
-}
-
-/* Make sure all content scales properly */
-@media (max-width: 768px) {
-    .container {
-        width: 95%;
-    }
-
-    h3 {
-        font-size: 1.5rem; /* Adjust as necessary for smaller screens */
-    }
-
-    .page-content {
-        font-size: 0.9rem; /* Adjust as necessary for smaller screens */
-    }
-}
-
  
