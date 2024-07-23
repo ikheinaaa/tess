@@ -1,7 +1,7 @@
 ---
 title: "Sal"
 layout: default
-permalink: "/terms-of-use.html"
+permalink: "/terms-of-use"
 ---
 
 Terms and Conditions
