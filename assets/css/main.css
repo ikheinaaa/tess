@@ -464,6 +464,32 @@ pre {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto; }
+/* Ensure the image auto-resizes and is centered */
+.auto-resize {
+    max-width: 100%;
+    height: auto;
+    width: 100%;
+    max-width: 1200px; /* Limit maximum width */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+/* Ensure container content is centered */
+.text-center {
+    text-align: center;
+}
+
+/* Style for the article content */
+.article-content {
+    margin-top: 2rem; /* Space between the title and content */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .auto-resize {
+        max-width: 100%;
+    }
+}
+
   @media (min-width: 576px) {
     .container {
       max-width: 540px; } }
