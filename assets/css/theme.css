@@ -802,5 +802,47 @@ div.a2a_full_footer {display:none;}
 	 .topfirstimage {
 		 height:280px !Important;
 	 }
+	
  }
+/* Ensure the container is responsive */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto; /* Center the container */
+    padding: 0 15px; /* Add padding on smaller screens */
+}
+
+/* Center-align text */
+.text-center {
+    text-align: center;
+}
+
+/* Ensure headings and paragraphs are responsive */
+h3 {
+    font-size: 2rem; /* Adjust as necessary */
+    margin-bottom: 1.5rem;
+}
+
+/* Make page-content responsive */
+.page-content {
+    font-size: 1rem; /* Adjust font size as necessary */
+    line-height: 1.5; /* Improve readability */
+    margin-bottom: 2rem;
+}
+
+/* Make sure all content scales properly */
+@media (max-width: 768px) {
+    .container {
+        width: 95%;
+    }
+
+    h3 {
+        font-size: 1.5rem; /* Adjust as necessary for smaller screens */
+    }
+
+    .page-content {
+        font-size: 0.9rem; /* Adjust as necessary for smaller screens */
+    }
+}
+
  
