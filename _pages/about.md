@@ -5,4 +5,12 @@ permalink: "/about.html"
 image: "/assets/images/screenshot.jpg"
 comments: true
 ---
-Made with <i class="fa fa-heart text-danger"></i> by Sal [@wowthemesnet](https://www.wowthemes.net/category/free-themes-templates/).
+# Welcome to our site {{site.baseurl}}!
+
+Thank you for visiting.
+
+This site was really built with you in mind and we hope you will find it useful.
+
+Your comments or questions are of course welcome.
+
+Thank You.
