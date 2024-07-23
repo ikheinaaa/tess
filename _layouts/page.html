@@ -3,12 +3,20 @@ layout: default
 ---
 
 <div class="container">
-<h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
-<div class="page-content">
-{{ content }}
-<!-- Comments -->
-{% if page.comments == true %}
-{% include comments.html %}
-{% endif %}
-</div>
+  <!-- Jumbotron -->
+  <div class="jumbotron jumbotron-fluid mb-4 bg-white position-relative">
+    <div class="container">
+      <h1 class="display-4 font-weight-bold spanborder">{{ page.title }}</h1>
+    </div>
+  </div>
+
+  <!-- Page Content -->
+  <div class="page-content">
+    {{ content }}
+
+    <!-- Comments -->
+    {% if page.comments == true %}
+      {% include comments.html %}
+    {% endif %}
+  </div>
 </div>
