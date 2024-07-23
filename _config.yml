@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/favicon.ico'
+name: 'Business'
+description: 'Innovative business software to boost productivity, efficiency, and drive company growth.'
+logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
 disqus: ''
-email: 'wowthemesnet@gmail.com'
+email: 'myinbox@my.id'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -20,20 +20,18 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:            Jane
+      site:           {{site.baseurl}}
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I'm Admin! I'm a blogger and the author of this blog. Here, I share my thoughts, insights, and experiences on various topics. Welcome, and I hope you enjoy reading!"
+     
 
     jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
+      name:           Maya
+      site:           {{site.baseurl}}
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+
  
 # Defaults
 defaults:
@@ -43,7 +41,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Jane
       avatar: /assets/images/avatar1.jpg
       
   # all pages
