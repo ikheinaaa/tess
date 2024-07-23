@@ -133,4 +133,4 @@ Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us:
 
-*   By email: admin@{{site.url}}
+*   By email: admin@{{site.baseurl}}
