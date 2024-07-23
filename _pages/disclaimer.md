@@ -3,24 +3,30 @@ title: "Jane"
 layout: default
 permalink: "/disclaimer.html"
 ---
-Every effort has been made to accurately represent this web site or product and its potential. Even though this industry is one of the few where one can write their own check in terms of earnings, there is no guarantee that you will earn any money using the techniques and ideas in these materials.
+Here is your content rephrased for clarity and coherence:
 
-Examples in these materials are not to be interpreted as a promise or guarantee of earnings. Earning potential is entirely dependent on the person using our product, ideas, techniques and the effort put forth. We do not purport this as a “get rich scheme”
+---
 
-Your level of success in attaining the results claimed in our materials depends on the time you devote to the program, ideas and techniques mentioned, knowledge and various skills. Since these factors differ according to individuals, we cannot guarantee your success or income level.
+Every effort has been made to accurately represent this website or product and its potential. While this industry offers opportunities for substantial earnings, there is no guarantee that you will make any money using the techniques and ideas presented in these materials.
 
-Any income claims or results for selling products on Amazon cannot be guaranteed. It is at the sole discretion of the user to put forth the effort needed. Due to the fact the provider of the materials cannot guarantee the effort of the user, success cannot be expressly guaranteed.
+Examples provided in these materials should not be interpreted as promises or guarantees of earnings. Your earning potential is entirely dependent on your own efforts using our product, ideas, and techniques. We do not promote this as a “get rich scheme.”
 
-Any success and income claims by advertising using Google Adsense cannot be guaranteed. The user must use the knowledge provided within the materials or have a working knowledge of other methods outside of the materials. Due to the lack of control the provider of the materials has in the user putting forth the effort, Adsense income claims are also not guaranteed.
+Your level of success in achieving the results claimed in our materials depends on the time you devote to the program, your knowledge, skills, and the application of the ideas and techniques mentioned. Since these factors vary among individuals, we cannot guarantee your success or income level.
 
-Any claims regarding affiliate income or success as an affiliate are also not guaranteed. The user of the materials is soley responsible for success or lack thereof after following any techniques that have to do with affiliate marketing.
+Any income claims or results from selling products on Amazon cannot be guaranteed. It is solely the user’s responsibility to put forth the necessary effort. As the provider of these materials cannot control the user’s efforts, success cannot be expressly guaranteed.
 
-Materials in our product and our website may contain information that includes or is based upon forward-looking statements within the meaning of the securities litigation reform act of 1995. Forward-looking statements give our expectations or forecasts of future events.
+Similarly, any claims regarding income from Google Adsense cannot be guaranteed. The user must apply the knowledge provided within the materials or have an understanding of other methods outside of the materials. Due to the lack of control over the user’s effort, Adsense income claims are also not guaranteed.
 
-You can identify these statements by the fact that they do not relate strictly to historical or current facts. They use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “believe,” “plan,” and other words and terms of similar meaning in connection with a description of potential earnings or financial performance.
+Claims regarding affiliate income or success in affiliate marketing are also not guaranteed. The user is solely responsible for their success or lack thereof after following any affiliate marketing techniques provided.
 
-Any and all forward looking statements here or on any of our sales material are intended to express our opinion of earnings potential. Many factors will be important in determining your actual results and no guarantees are made that you will achieve results similar to ours or anybody elses, in fact no guarantees are made that you will achieve any results from our ideas and techniques.
+Materials in our product and on our website may contain forward-looking statements within the meaning of the Securities Litigation Reform Act of 1995. Forward-looking statements reflect our expectations or forecasts of future events.
 
-This site may contain affiliate links where the advertiser/creator earns a commission if you purchase the product. This site may have links to amazon products as an affiliate and/or may generate revenue if any visitor clicks on advertisements presented by Google Adsense or any other contextual advertising program. Affiliate links from sites like clickbank or shareasale or any other websites may be present and the site owner may earn commissions by recommending products on this website.
+You can identify these statements by the fact that they do not relate strictly to historical or current facts. They use words such as “anticipate,” “estimate,” “expect,” “project,” “intend,” “believe,” “plan,” and other words and terms of similar meaning in connection with descriptions of potential earnings or financial performance.
 
-Results vary, and as with any money-making opportunity, you could make more or less. Success in ANY money-making opportunity is a result of hard work, time and a variety of other factors. No express or implied guarantees of income are made by github.com
+All forward-looking statements here or in any of our sales material are intended to express our opinion of earnings potential. Many factors will influence your actual results, and no guarantees are made that you will achieve results similar to ours or anyone else's. In fact, no guarantees are made that you will achieve any results from our ideas and techniques.
+
+This site may contain affiliate links where the advertiser/creator earns a commission if you purchase the product. This site may include links to Amazon products as an affiliate and/or may generate revenue if visitors click on advertisements presented by Google Adsense or any other contextual advertising program. Affiliate links from sites like ClickBank or ShareASale may be present, and the site owner may earn commissions by recommending products on this website.
+
+Results vary, and as with any money-making opportunity, you could make more or less. Success in any money-making opportunity results from hard work, time, and various other factors. No express or implied guarantees of income are made by GitHub.com.
+
+---
